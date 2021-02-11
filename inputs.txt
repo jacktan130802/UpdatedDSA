@@ -1,0 +1,10 @@
+No of 5kg     - 9
+No of 3kg     - 3
+No of 2kg     - 2
+No of 1kg     - 3
+No of Rack    - 3
+Boxes/Rack    - 4
+Wt Lim Rack 1 - 14
+Wt Lim Rack 2 - 12
+Wt Lim Rack 3 - 13
+
